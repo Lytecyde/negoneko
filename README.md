@@ -1,2 +1,2 @@
 # negoneko
-negotion generato
+negotion generator for a tracery.js project
